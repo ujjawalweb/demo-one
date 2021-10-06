@@ -4,6 +4,8 @@ body {
   color: #444444;
 }
 
+body,html{overflow-x:hidden;}
+
 a {
   color: #ef6603;
   text-decoration: none;
